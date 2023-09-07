@@ -1,0 +1,57 @@
+   ----------------------------------------------------
+   |                     user                         |
+   ---------------------------------------------------
+   |                   application                    | 
+   ---------------------------------------------------
+   | System daemons   |   Shells  | User apps  | Tools | 
+   ---------------------------------------------------
+   |                OPERATING SYSTEM                  |
+   ---------------------------------------------------
+   |                     KERNEL                       |
+   ----------------------------------------------------
+   |                    HARDWARE                      |
+   ----------------------------------------------------
+   
+   # users interact with the system via the application layer that 
+   includes system daemons, shells,  user app, tools.
+   # the applications communicate with the operating system to perform
+   tasks.  
+   # The OS is resposible for jobs that are vital for system stability
+   such as job scheduling and keeping track of time.
+   # all linux operating systems are built on top of the linux kernel,
+   which performs the most vital lower-level jobs. The kernel is the 
+   core componet of the operating system and is responsible for managing, processing,
+   security and so on.
+   #The kernel interacts with the hardware layer, which
+   includes all the physical electronic devices in the computer such as processors, 
+   memory modules, input devices and storage.
+   
+   
+                                Kernel
+                             --------------
+      1. Lowest-level software in system
+      2. starts on boot and remains in memory
+      3. Bridge between apps and hardware 
+      4. key jobs:
+             1. Memory management
+             2. process management
+             3.Device drivers
+             4.Sytem calls and security
+             
+                   Hardware
+                 ------------
+         consists of all physical electronic devices on your PC:
+                     # CPU  (resposible for executing most calculations)
+                     # RAM  (a fast storage unit use to hold the temporary
+                              info your applications need to run)
+                     # storage  (data that needs to persist when your computer fos powered off)
+                     # Screen
+                     # USB devices 
+                     
+                     
+                            
+   
+   
+   
+   
+   

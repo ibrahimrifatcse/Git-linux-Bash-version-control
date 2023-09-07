@@ -1,0 +1,51 @@
+what is an operationg system?
+-------------------------------
+An operating system is software that :
+          1.Managees computer hardware and resources
+          2.Allows interaction with hardware to perform useful tasks
+          
+          
+what is unix?
+--------------------
+
+# unix is a family of operating system
+# popular Unix-based OSs include:
+          1. oracles solaris (and open solaris)
+          2. FreeBSD (BSD : Berkly software Distribution)
+          3. HP-UX
+          4.IBM AIX
+          5. Apple macOS
+          
+          
+ What is Linux?
+ ----------------
+              # Linux is a family of Unix-likes OSs
+              Linux was originally developed as an effort to create a free, open source Unix OS
+              
+   Linux features
+   -----------------
+           # Free and open source (which means anyone can view the source code)
+           # Secure    (so many eyes on the source code, linux has become the most secure OS )
+           # Multi-user (Linux is designedto support multiple users accesing the system simultaneously)
+           # Multitasking  (it support multitasking, running multiple jobs and applications at the same time.)
+           #Portability    (Linux has been ported to run on many different types of devices and hardware platforms from desktop to 
+                             servers to appliances)
+             
+             
+             
+             Linux kernel
+          -----------------
+    The kernel is the core component of an OS that enables components to communicate 
+    with the machine's hardware.
+    
+    #BSD based macOS runs on millions of devices
+    #Billions of linux instances run on severs, serving the modern web
+    #modern linux OSs are gaining popularity for PCs
+    
+                      Linux use cases today
+                    -------------------------
+       1. Android (linux-based kernel.)
+       2.  Supercomputers 
+       3. Data centers and cloud servers  (millions of severs running all kinds of applications, web servers, databases and so on.)
+       4. PCs                              
+           

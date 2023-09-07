@@ -1,0 +1,34 @@
+                  linux file 
+             ----------------------
+   # collection of files in your machine (it includes the files needed to 
+             run the machine and applications as well as your onw files containing your work)
+                             
+   # Begins at root directory (/) ( the top level of the filesystem is the root dirctory, symolized by a forward slash.)
+   # Tree-like structure
+   # Asssigns apppropriate access rights
+   
+                              File system
+                            --------------------
+               /bin----------------------------- "/" 
+               {
+               
+ one of the key directories is /bin, which cintains user
+ binary files.
+ binary files contain the code your machine reads to run programs and execute
+ commands.
+ 
+               
+   }
+   
+   /user : which contains user programs
+   /home : which is your personal working dirctory where you
+           shoud store all your personal files
+   /boot : which contains your system boot files, 
+           the instructions vital for system startup
+   /media : contains files related to temporary media such as
+             CS or USB drives that are connected to the system.
+             
+    /sbin , /etc,  /dev , /proc , /var, /tmp , /lib, /opt, /mnt , /srv
+   
+   
+   

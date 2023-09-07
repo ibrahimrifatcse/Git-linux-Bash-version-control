@@ -1,0 +1,24 @@
+c++ code run in terminal : g++ -std=c++17 FileName.cpp 
+                              ./a.out
+                              
+python run in terminal : 
+                         python3 FileName.py
+                         
+  
+     who are command run?
+   --------------------------------------------------
+   | user  -> Terminal  -> Shell OS kernel -> Hardware |
+           <-           <-                  <-   
+   --------------------------------------------------
+   
+   ~ home directory
+   / root directory
+   .. paren of current directory
+   . current directory
+   
+   
+   cd / 
+   cd bin (the bin directory ,which is inside root, contains programs 
+            required by the system.)
+   ./ls (you can run the ls in the current working directory by entering ./ls)
+    [ cat  cp  dash  dd  echo  expr  kill  ls   ...   mv  ps rm sh  stty  tcsh   unlink ]

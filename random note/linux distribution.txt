@@ -1,0 +1,66 @@
+1. A specific flabor of linux OS
+2. Also known as a distro
+3. Uses the linux kernel
+4. Hundres of linux distros tailored for different
+audiences or tasks
+
+         linux distro differences
+       ---------------------------
+  1.System utilites : Each linux distro includes a unique set of default utilites that are part of the operating system,
+                      such as command and applications that come prepackaged wiht the distribution
+  2. GUI            : Each distro has its own graphical user interface, that you use to interact with operating system.
+  3.Shell commanss  : Each distro supports as a specific set of commands that you can use in the shell, a window for 
+                      entering and receiving out from commands.
+  4.Suppport types  : Each distro provides differing levels fo support
+                                1. community vs. enterprise  (it could be developed and managed as a community-backed project or maintaind by commercial enterprise)
+                                2. LTS (long term support) vs. rollig relase(stable package updates are released on a rolling schedule) 
+                                
+                                
+                                Linux distros
+                              --------------------
+                              1. Debian
+                                     # stable, reliable, fully open source
+                                     # support many computer architecture
+                                     # largest community-run distro
+                                     
+                               2. Ubuntu
+                                       # debian-based
+                                       # developed and manged by cononical
+                                       # three editions:
+                                                  * ubuntu desktop
+                                                  * ubunto sever
+                                                  * ubuntu core (for the internet of things #IoT)
+                                                  
+                              3. Red Hat Linux
+                                       # A core linux distro
+                                       # stable, reliable, fully open source
+                                       # Red Hat Enterprise Linux 
+                                       
+                              4. Fedora
+                                       # Supports many architechtures
+                                       # very reliable and secure
+                                       # Actively developed, large commuity
+                                       # sponsored by Red Hat
+                                       
+                                       
+                              5. SUSE Enterprise  || known as SLE : SUSE enterprise linux 
+                                              # two editions :
+                                                      * server (SLES)
+                                                      * Desktop (SLED)
+                                              # support many architecture
+                                              # SUSE package Hub (enables users to install packages that aren't offically part of SLE)
+                                              # Maintained by SUSE
+                                              
+                                              
+                              6. Arch Linux
+                                             #  DO-it-yourself approach (allows users to customize every part of their system)
+                                             # Highly configurable
+                                             # Requires strong understanding of linux and system tools
+                                             # leading-edge software
+                                          
+                                       
+                                       
+                                       
+                                
+                                
+                                
